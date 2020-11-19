@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string-array name="major">
+       <item>학생</item>
+       <item>조교</item>
+       <item>교수</item>
+<!--       <item>수석</item>-->
+<!--       <item>팀장</item>-->
+   </string-array>
+</resources>
